@@ -1,0 +1,15 @@
+/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/CSharp Test/bin/Debug/net7.0/CSharp Test
+/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/CSharp Test/bin/Debug/net7.0/CSharp Test.deps.json
+/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/CSharp Test/bin/Debug/net7.0/CSharp Test.runtimeconfig.json
+/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/CSharp Test/bin/Debug/net7.0/CSharp Test.dll
+/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/CSharp Test/bin/Debug/net7.0/CSharp Test.pdb
+/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/CSharp Test/obj/Debug/net7.0/CSharp Test.csproj.AssemblyReference.cache
+/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/CSharp Test/obj/Debug/net7.0/CSharp Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/CSharp Test/obj/Debug/net7.0/CSharp Test.AssemblyInfoInputs.cache
+/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/CSharp Test/obj/Debug/net7.0/CSharp Test.AssemblyInfo.cs
+/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/CSharp Test/obj/Debug/net7.0/CSharp Test.csproj.CoreCompileInputs.cache
+/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/CSharp Test/obj/Debug/net7.0/CSharp Test.dll
+/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/CSharp Test/obj/Debug/net7.0/refint/CSharp Test.dll
+/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/CSharp Test/obj/Debug/net7.0/CSharp Test.pdb
+/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/CSharp Test/obj/Debug/net7.0/CSharp Test.genruntimeconfig.cache
+/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/CSharp Test/obj/Debug/net7.0/ref/CSharp Test.dll
